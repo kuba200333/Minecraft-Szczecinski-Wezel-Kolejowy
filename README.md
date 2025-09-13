@@ -1,6 +1,7 @@
-# Minecraft: Szczeciński Węzeł Kolejowy
 
 ![Logo Projektu](https://github.com/kuba200333/minecraft_pociagi/blob/main/image/logo.png?raw=true)
+
+# Minecraft: Szczeciński Węzeł Kolejowy
 
 Witaj w projekcie **Minecraft: Szczeciński Węzeł Kolejowy**! Jest to wirtualne odwzorowanie fragmentu sieci kolejowej w województwie zachodniopomorskim, stworzone z dbałością o szczegóły w grze Minecraft. Zanurz się w świecie bloków i poczuj się jak maszynista, podróżując po precyzyjnie odtworzonych trasach kolejowych.
 
