@@ -10,6 +10,13 @@ Witaj w projekcie **Minecraft: Szczeciński Węzeł Kolejowy**! Jest to wirtualn
 ## O Projekcie 🗺️
 
 Projekt ten jest mapą do gry **Minecraft w wersji 1.7.10**, działającą w oparciu o modyfikację **Forge**. Naszym celem jest jak najwierniejsze odtworzenie istniejących linii kolejowych, stacji i przystanków w okolicach Szczecina. Do poprawnego działania mapy niezbędna jest paczka modów.
+---
+
+## Mapa świata 🗺️
+<p align="center">
+  <img src="https://github.com/kuba200333/minecraft_pociagi/blob/main/image/Mi%C4%99dzyzdroje.png?raw=true" width="700">
+  <br><em>Mapa świata z liniami kolejowymi</em>
+</p>
 
 ---
 
