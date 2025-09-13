@@ -20,6 +20,23 @@ Projekt ten jest mapą do gry **Minecraft w wersji 1.7.10**, działającą w opa
 
 ---
 
+## Odwzorowane Linie Kolejowe 🚂
+
+Na obecnym etapie projektu, mapa zawiera następujące linie kolejowe:
+
+* **Linia kolejowa nr 273** (Szczecin Żydowce - Szczecin Główny)
+* **Linia kolejowa nr 351** (Drawski Młyn - Szczecin Główny)
+* **Linia kolejowa nr 401** (Szczecin Dąbie SDB - Świnoujście Port)
+* **Linia kolejowa nr 402** (Mosty - Goleniów)
+* **Linia kolejowa nr 407** (Wysoka Kamieńska - Kamień Pomorski)
+* **Linia kolejowa nr 434** (Mosty - Port Lotniczy Szczecin Goleniów)
+* **Linia kolejowa nr 435** (Mosty - rozjazd nr 1 do rozjazdu nr 2)
+* **Linia kolejowa nr 854** (Szczecin Port Centralny SPB - Dziewoklicz)
+* **Linia kolejowa nr 855** (Regalica - Szczecin Port Centralny, rejon SPA)
+
+---
+
+
 ## Instalacja ⚙️
 
 Instalacja jest bardzo prosta! Postępuj zgodnie z poniższymi krokami:
@@ -52,22 +69,6 @@ Wszystkie niezbędne modyfikacje zostały zebrane w jedną paczkę dla Twojej wy
 ### Krok 4: Uruchom grę
 
 Uruchom Minecraft Launcher, wybierz profil **Forge 1.7.10** i kliknij "Graj". Mapa powinna być dostępna na liście światów. Miłej podróży!
-
----
-
-## Odwzorowane Linie Kolejowe 🚂
-
-Na obecnym etapie projektu, mapa zawiera następujące linie kolejowe:
-
-* **Linia kolejowa nr 273** (Szczecin Żydowce - Szczecin Główny)
-* **Linia kolejowa nr 351** (Drawski Młyn - Szczecin Główny)
-* **Linia kolejowa nr 401** (Szczecin Dąbie SDB - Świnoujście Port)
-* **Linia kolejowa nr 402** (Mosty - Goleniów)
-* **Linia kolejowa nr 407** (Wysoka Kamieńska - Kamień Pomorski)
-* **Linia kolejowa nr 434** (Mosty - Port Lotniczy Szczecin Goleniów)
-* **Linia kolejowa nr 435** (Mosty - rozjazd nr 1 do rozjazdu nr 2)
-* **Linia kolejowa nr 854** (Szczecin Port Centralny SPB - Dziewoklicz)
-* **Linia kolejowa nr 855** (Regalica - Szczecin Port Centralny, rejon SPA)
 
 ---
 
