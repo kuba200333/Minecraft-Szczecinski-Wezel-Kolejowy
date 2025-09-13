@@ -55,39 +55,19 @@ Uruchom Minecraft Launcher, wybierz profil **Forge 1.7.10** i kliknij "Graj". Ma
 
 ---
 
-## Lista Modyfikacji 📦
+## Odwzorowane Linie Kolejowe 🚂
 
-Dla pewności, poniżej znajduje się lista wszystkich modyfikacji zawartych w paczce:
+Na obecnym etapie projektu, mapa zawiera następujące linie kolejowe:
 
-* [MINECRAFT-INSIDE.COM]mrcrayfishfurnituremodv3.4.8.1.7.1...jar
-* 2Carpenter's+Blocks+v3.3.8.2+-+MC+1.7.10.jar
-* 2Railcraft_1.7.10-9.12.2.1.jar
-* AsieLib-1.7.10-0.4.9.jar
-* BarrierBlock-1.7.10-0.3.jar
-* Computronics-1.7.10-1.75-Ctyrk4-v1.3.jar
-* CreativeCore v1.3.24 mc1.7.10.jar
-* Ctyrk4_Addon_TCCE-1.5.jar
-* CustomNPCs_1.7.10d(29oct17).jar
-* Dynamic-Transport-Mod-1.7.10.jar
-* fastcraft-1.25.jar
-* Immersive-Integration-Mod-1.7.10.jar
-* journeymap-1.7.10-5.1.4-unlimited.jar
-* LampsAndTrafficlights-1.2-Minecraft_1.7.10.jar
-* LandOfSignals-1.7.10-forge-0.0.2.jar
-* MoarSigns-1.7.10-1.2.4.jar
-* Monoblocks-Mod-1.7.10 (1).jar
-* MTS Official Pack V20.jar
-* OpenComputers-MC1.7.10-1.8.7+7fecb07-universal.jar
-* Railcraft_1.7.10-9.12.2.3_Ctyrk4_v1.35.jar
-* Road-Stuff-Mod-1.7.10 (1).jar
-* signalcraft-1-2-2.jar
-* SimpleWorldTimer-1.7.10-1.1.2.jar
-* SlimevoidLibrary-2.0.4.7.jar
-* TESP-2.0.0.jar
-* Traincraft-4.4.1_020-CE_5.jar
-* Traincraft-4.4.1_020-CE_7.1.jar
-* UniversalModCore-1.7.10-forge-1.0.0.jar
-* worldedit-forge-mc1.7.10-6.1.1-dist (1).jar
+* **Linia kolejowa nr 273** (Szczecin Żydowce - Szczecin Główny)
+* **Linia kolejowa nr 351** (Drawski Młyn - Szczecin Główny)
+* **Linia kolejowa nr 401** (Szczecin Dąbie SDB - Świnoujście Port)
+* **Linia kolejowa nr 402** (Mosty - Goleniów)
+* **Linia kolejowa nr 407** (Wysoka Kamieńska - Kamień Pomorski)
+* **Linia kolejowa nr 434** (Mosty - Port Lotniczy Szczecin Goleniów)
+* **Linia kolejowa nr 435** (Mosty - rozjazd nr 1 do rozjazdu nr 2)
+* **Linia kolejowa nr 854** (Szczecin Port Centralny SPB - Dziewoklicz)
+* **Linia kolejowa nr 855** (Regalica - Szczecin Port Centralny, rejon SPA)
 
 ---
 
