@@ -14,7 +14,7 @@ Projekt ten jest mapą do gry **Minecraft w wersji 1.7.10**, działającą w opa
 
 ## Mapa świata 🗺️
 <p align="center">
-  <img src="https://github.com/kuba200333/minecraft_pociagi/blob/main/image/Mi%C4%99dzyzdroje.png?raw=true" width="700">
+  <img src="https://github.com/kuba200333/Minecraft-Szczecinski-Wezel-Kolejowy/blob/main/image/mapa.png" width="700">
   <br><em>Mapa świata z liniami kolejowymi</em>
 </p>
 
